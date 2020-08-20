@@ -12,9 +12,9 @@ const ChannelInfo: React.FC = () => {
     return (
         <Container>
             <HashtagIcon />
-            <Title>Titulo</Title>
+            <Title>chat-livre</Title>
             <Separator />
-            <Description>Descricao do canal</Description>
+            <Description>Descrição do canal</Description>
         </Container>
     );
 };
